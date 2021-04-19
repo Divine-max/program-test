@@ -1,1 +1,1 @@
-# program-test
+Language used: Python
